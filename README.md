@@ -2,7 +2,7 @@
 
 **Tagline:** Know where you stand. Know what to learn next.
 
-A complete internship-level full-stack AI/ML career readiness project using:
+
 
 - Frontend: React + Vite + React Router + Axios + Lucide React
 - Backend: Python + FastAPI + Pydantic + SQLAlchemy
