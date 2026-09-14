@@ -1,0 +1,2 @@
+-- Seed through Python:
+-- python -m backend.seed.seed_data
